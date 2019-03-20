@@ -9,3 +9,4 @@ pyasn1
 paramiko
 datadog
 google
+google-cloud-storage
